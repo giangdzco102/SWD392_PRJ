@@ -1,3 +1,6 @@
+-- MSSV: HE191633
+-- Ho ten: Nguyen Truong Giang
+
 -- =====================================================================
 -- AutoCare – Vehicle Repair, Maintenance Booking & Garage Service Management
 -- Physical database schema – PostgreSQL 16

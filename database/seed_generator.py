@@ -1,3 +1,5 @@
+# MSSV: HE191633
+# Ho ten: Nguyen Truong Giang
 """
 AutoCare – sample data generator (whole project).
 Produces 02_seed.sql that fills all 44 tables with consistent, realistic data.

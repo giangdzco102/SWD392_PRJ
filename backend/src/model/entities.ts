@@ -1,3 +1,8 @@
+/*
+ * MSSV: HE191633
+ * Ho ten: Nguyen Truong Giang
+ */
+
 import { Column, Entity, PrimaryColumn } from 'typeorm';
 import { numeric } from './columns';
 

@@ -1,3 +1,8 @@
+/*
+ * MSSV: HE191633
+ * Ho ten: Nguyen Truong Giang
+ */
+
 import { EntityManager } from 'typeorm';
 
 /** Business code generator, e.g. PR-261108-0003 (unique per prefix and day). */

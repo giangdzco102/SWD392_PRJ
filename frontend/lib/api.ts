@@ -1,3 +1,8 @@
+/*
+ * MSSV: HE191633
+ * Ho ten: Nguyen Truong Giang
+ */
+
 'use client';
 
 export const API_URL = process.env.NEXT_PUBLIC_API_URL ?? 'http://localhost:4000/api';

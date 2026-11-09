@@ -1,3 +1,8 @@
+/*
+ * MSSV: HE191633
+ * Ho ten: Nguyen Truong Giang
+ */
+
 import type { Metadata } from 'next';
 import './globals.css';
 

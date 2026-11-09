@@ -1,3 +1,8 @@
+/*
+ * MSSV: HE191633
+ * Ho ten: Nguyen Truong Giang
+ */
+
 import { Type } from 'class-transformer';
 import {
   ArrayMinSize, ArrayUnique, IsArray, IsEmail, IsIn, IsInt, IsNumber, IsOptional, IsString, Max, MaxLength, Min, MinLength, ValidateNested,

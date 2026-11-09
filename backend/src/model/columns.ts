@@ -1,3 +1,8 @@
+/*
+ * MSSV: HE191633
+ * Ho ten: Nguyen Truong Giang
+ */
+
 import { ValueTransformer } from 'typeorm';
 
 /** PostgreSQL BIGINT / NUMERIC are returned as strings by `pg`; map them to JS numbers. */
